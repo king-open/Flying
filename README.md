@@ -14,7 +14,9 @@
 
    ```bash
    
-  
+  git clone git@github.com:king-open/Flying.git 
+
+  cd Flying
    ```
 
 2. 运行系统：
