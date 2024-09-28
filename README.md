@@ -12,12 +12,11 @@
 
 1. 克隆仓库：
 
-   ```bash
+```bash
+git clone git@github.com:king-open/Flying.git
 
-  git clone git@github.com:king-open/Flying.git 
-
-  cd Flying
-   ```
+cd Flying
+```
 
 2. 运行系统：
 
